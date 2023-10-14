@@ -1,7 +1,5 @@
 package edu.hw1;
 
-import java.util.Arrays;
-
 public class Task7 {
 
     public static int rotateLeft(int n, int shift) {

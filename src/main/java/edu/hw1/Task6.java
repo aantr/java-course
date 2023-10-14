@@ -1,6 +1,5 @@
 package edu.hw1;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Task6 {
